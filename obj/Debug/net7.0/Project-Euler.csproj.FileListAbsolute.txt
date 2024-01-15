@@ -1,0 +1,15 @@
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\bin\Debug\net7.0\Project-Euler.exe
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\bin\Debug\net7.0\Project-Euler.deps.json
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\bin\Debug\net7.0\Project-Euler.runtimeconfig.json
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\bin\Debug\net7.0\Project-Euler.dll
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\bin\Debug\net7.0\Project-Euler.pdb
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.csproj.AssemblyReference.cache
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.AssemblyInfoInputs.cache
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.AssemblyInfo.cs
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.dll
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\refint\Project-Euler.dll
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.pdb
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\Project-Euler.genruntimeconfig.cache
+C:\Users\johnm\Downloads\PJ_Euler\Project-Euler\obj\Debug\net7.0\ref\Project-Euler.dll
